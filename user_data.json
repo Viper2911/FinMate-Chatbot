@@ -1,0 +1,10 @@
+{
+"net_worth": 920000,
+"monthly_income": 65000,
+"expenses": { "rent": 18000, "food": 9000, "bills": 4000 },
+"sips": [
+{ "name": "Axis Growth", "cagr": 0.11 },
+{ "name": "Nippon SmallCap", "cagr": 0.08 }
+],
+"loans": { "home": 2500000, "interest": 0.085, "monthly_emi": 24000 }
+}
